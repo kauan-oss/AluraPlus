@@ -97,12 +97,12 @@ body{
 }
 
 .dispositivos {
-    alinhamento do texto: centralizado;
+    text-align: center;
 }
 
 .dispositivos__titulo {
-    tamanho da fonte: 48px;
-    cor : var(--branco-principal);
+    font-size: 48px;
+    color: var(--branco-principal);
 }
 
 .dispositivos__lista {
