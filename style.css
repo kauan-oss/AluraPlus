@@ -107,7 +107,6 @@ body{
 
 .dispositivos__lista {
     display: flex;
-    align-items: center;
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
@@ -115,7 +114,6 @@ body{
 
 .lista__item {
     font-size: 32px;
-    text-align: center;
     color: var(--branco-principal);
 }
 
