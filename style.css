@@ -112,6 +112,10 @@ body{
     margin: 5em 0;
 }
 
+.img{
+    text-align: center;
+}
+
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
