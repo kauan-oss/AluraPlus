@@ -114,7 +114,7 @@ body{
 
 .lista__item {
     font-size: 32px;
-    align-items: center;
+    text-align: center;
     color: var(--branco-principal);
 }
 
